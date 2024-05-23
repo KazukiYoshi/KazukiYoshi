@@ -1,6 +1,6 @@
 <div align='center'>
 
-[![typograssy](https://typograssy.deno.dev/api?text=COMPUTER!%20ANIME!%20)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=COMPUTER!%20ANIME!%20SHIMA-RIN!!!%20)](https://github.com/kawarimidoll/typograssy)
 
 <hr>
 
