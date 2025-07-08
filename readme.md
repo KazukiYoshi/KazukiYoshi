@@ -7,8 +7,8 @@
 Name: Kazuki Yoshimura\
 Birth: 02/05/2003
 
-Junior Highschool: Kwansei Gakuin\
-Highschool: Kwansei Gakuin\
+Junior High School: Kwansei Gakuin\
+High School: Kwansei Gakuin\
 University: Kwansei Gakuin
 
 ![74baaa01cec87f09c199d0478d7e999662f405ce](https://github.com/KazukiYoshi/KazukiYoshi/assets/169992809/8968d400-296f-4287-b1d5-d685e0b773a5)
